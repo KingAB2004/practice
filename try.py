@@ -6,7 +6,7 @@ int main()
     cin>>t;
     while(t--)
     {
-        cout<<"Hello World to this world"<<endl;
-        cout<<"Hello World to my best friend"<<endl;
+        cout<<"kingAB is the best"<<endl;
+
     }
 }
