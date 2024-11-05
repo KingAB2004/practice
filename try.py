@@ -6,7 +6,11 @@ int main()
     cin>>t;
     while(t--)
     {
+<<<<<<< HEAD
         cout<<"kingAB is the best"<<endl;
 
+=======
+        cout<<"Hello World to my best friend of this world"<<endl;
+>>>>>>> kingAB
     }
 }
