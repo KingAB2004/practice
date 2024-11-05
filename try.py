@@ -6,6 +6,6 @@ int main()
     cin>>t;
     while(t--)
     {
-        cout<<"Hello World to my best friend"<<endl;
+        cout<<"Hello World to my best friend of this world"<<endl;
     }
 }
