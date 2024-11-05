@@ -7,6 +7,5 @@ int main()
     while(t--)
     {
         cout<<"Hello World to this world"<<endl;
-        cout<<"Hello World to my best friend"<<endl;
     }
 }
